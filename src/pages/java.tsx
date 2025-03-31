@@ -87,11 +87,7 @@ export default function Java() {
 
 							{/* Signature */}
 							<div className="mt-4 px-2 text-right">
-								<p className="text-xl">
-									Salaam
-									<br />
-									Zain Shabbir
-								</p>
+								<p className="text-xl">Salaam</p>
 							</div>
 						</div>
 					</div>
